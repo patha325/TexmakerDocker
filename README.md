@@ -1,5 +1,5 @@
 # TexmakerDocker
-Texmaker, https://www.xm1math.net/texmaker/ in a debian docker environment with texlive-full. This provides everything which may need to be used for latex but is quite large. A future project will be to include all used/physics tex-packages in apt-get. Based on https://hub.docker.com/r/jgiovaresco/texmaker/.
+Texmaker, https://www.xm1math.net/texmaker/ in a debian docker environment with texlive-full. This provides everything which may need to be used for latex but is quite large. A future project will be to include all used/physics tex-packages in apt-get. Based on https://hub.docker.com/r/jgiovaresco/texmaker/, https://github.com/jgiovaresco/dockerfiles/tree/master/texmaker.
 
 Follow instructions from: https://hub.docker.com/r/rootproject/root-ubuntu16/ to run graphics, also below:
 
